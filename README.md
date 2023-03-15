@@ -1,2 +1,2 @@
-# Pre-Curso-Henry
-Este es un proyecto de como crear un repositorio y clonarlo desde github a mi pc
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi pc
+
